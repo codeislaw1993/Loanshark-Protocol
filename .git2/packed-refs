@@ -1,0 +1,18 @@
+# pack-refs with: peeled fully-peeled sorted 
+f385d71983ae5c5799faae9b2dfea43e5cf75262 refs/tags/audit
+65e870f7f45dca0a7a3a70209da9c5aec9d27c13 refs/tags/audit-2.6-alpha2.0-rev
+a303a3259286869d0a4aae967d7cb9e55db39c37 refs/tags/audit-2.7-alpha1.0
+a303a3259286869d0a4aae967d7cb9e55db39c37 refs/tags/audit-flywheel
+65e870f7f45dca0a7a3a70209da9c5aec9d27c13 refs/tags/audit-oz-tether
+bcf0bc7b00e289f9b661a0ae934626e018188040 refs/tags/v2.3
+9ea64ddd166a78b264ba8006f688880085eeed13 refs/tags/v2.31-rc1
+63c992c2ad8ad04bf3e513dca770d469569cbfea refs/tags/v2.5-rc2
+db12e09c10578f8b244848adccf6b8ae64479b7b refs/tags/v2.5-rc3
+afbe8a48033082c30a813c399eda90c967477df7 refs/tags/v2.6-rc1
+eee83bcb2996912c34d0805a731e93020fc2a149 refs/tags/v2.6-rc2
+a79cda943b7f56a13588e9c173e439729047090c refs/tags/v2.6-rc3
+a79cda943b7f56a13588e9c173e439729047090c refs/tags/v2.7
+a0a40a75544b124e999a0236ce5daeb4814b4ff6 refs/tags/v2.7-alpha1.0
+06c15c0fde00fe51eaf3bfed5916b367055adb41 refs/tags/v2.7.18
+d2a1861cf59d001c1efadcf4d8260f08dad31cae refs/tags/v2.8
+23eac9425accafb82551777c93896ee7678a85a3 refs/tags/v2.8.1

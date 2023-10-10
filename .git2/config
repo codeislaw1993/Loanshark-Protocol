@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Loanshark-Protocol"]
+	url = https://github.com/loansharktechteam/Loanshark-Protocol
+	fetch = +refs/heads/*:refs/remotes/Loanshark-Protocol/*
+[branch "master"]
+	remote = Loanshark-Protocol
+	merge = refs/heads/master
