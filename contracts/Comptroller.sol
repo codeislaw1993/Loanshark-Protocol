@@ -8,13 +8,13 @@ import "./ComptrollerInterface.sol";
 import "./ComptrollerStorage.sol";
 import "./Unitroller.sol";
 import "./Governance/Comp.sol";
-import "./MainDemoConsumerBase.sol";
+import "./PrimaryProdDataServiceConsumerBase.sol";
 
 /**
  * @title Loanshark's Comptroller Contract
  * @author Loanshark
  */
-contract Comptroller is ComptrollerV7Storage, ComptrollerInterface, ComptrollerErrorReporter, ExponentialNoError, MainDemoConsumerBase {
+contract Comptroller is ComptrollerV7Storage, ComptrollerInterface, ComptrollerErrorReporter, ExponentialNoError, PrimaryProdDataServiceConsumerBase {
     /// @notice Emitted when an admin supports a market
     event MarketListed(CToken cToken);
 
