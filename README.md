@@ -1,4 +1,5 @@
-## Loanshark
+## Loanshark Core
+![image](https://github.com/loansharktechteam/Loanshark-Core/assets/106189405/95a04c54-853d-40df-8750-79844817bd43)
 
 Loanshark is a decentralized money market with risk-isolated pools on Scroll. 
 
