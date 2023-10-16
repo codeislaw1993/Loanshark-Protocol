@@ -9,7 +9,7 @@ Loanshark's design of risk-isolated pools strikes an optimal balance between ris
 
 ### Main Hub
 
-| Name              | Address                                                                                                                 |
+| Name              | Addresses                                                                                                                 |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------- |
 | Unitroller        | 0xC1D290D7D618b77C419B905D17673Aad0e989777 |
 | Comptroller       | 0x0E77417EbD5014B1a2c63648b7438F679a80B53F |
