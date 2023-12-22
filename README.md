@@ -15,6 +15,17 @@ Loanshark's design of risk-isolated pools strikes an optimal balance between ris
 | Comptroller       | 0xEFB0697700E5c489073a9BDF7EF94a2B2bc884a5 |
 | cETH              | 0xF017f9CF11558d143E603d56Ec81E4E3B6d39D7F | 
 | cUSDC             | 0x466da81A766Ff502FE8eA318D4d1E044b1Bf84C1 | 
+| cUSDT             | 0x1829D0c11fDe88c109Eafb002313B8d9D9D8dB85 | 
+| Maximillion       | 0x4F5196f8b49D566342e42efD310F47Cc1C9F6d7E |
+
+### LSD Hub
+
+| Name              | Address                                                                                                                 |
+| :---------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| Unitroller        | 0xF5018551dfA588E30Bd5e0540127A67B9f326853 |
+| Comptroller       | 0x945cd438038C1B46029Aa111D5785C6580EC0D4e |
+| cETH              | 0x8Af46952d44F5e32ED3CDad2De0dfCeA06897B41 | 
+| cwstETH           | 0x8Af46952d44F5e32ED3CDad2De0dfCeA06897B41 | 
 | Maximillion       | 0x4F5196f8b49D566342e42efD310F47Cc1C9F6d7E |
 
 ## Documentation
